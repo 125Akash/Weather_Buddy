@@ -1,5 +1,7 @@
 # Weather Buddy - Your Ultimate Weather Companion
 
+## LIVE _ LINK - https://buddyweather.netlify.app/
+
 ## Overview
 
 Weather Buddy is a comprehensive weather application that provides real-time weather information for all states in India. With a sleek and user-friendly interface, it offers a detailed 7-day weather forecast, UV index, wind speed, maximum and minimum temperatures, humidity levels, and even includes the population of the city. Weather Buddy also features a temperature conversion button for seamless toggling between Celsius and Fahrenheit.
@@ -22,8 +24,8 @@ Weather Buddy is a comprehensive weather application that provides real-time wea
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/weather-buddy.git
-cd weather-buddy
+git clone https://github.com/125Akash/Weather_Buddy.git
+cd Weather_Buddy
 ```
 
 Install dependencies:
